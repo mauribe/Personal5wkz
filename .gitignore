@@ -3,6 +3,10 @@ config/
 *.log 
 deploy/ 
 debug/
+Personal5wkz.sublime-project
+Personal5wkz.sublime-settings
+Personal5wkz.sublime-workspace
+
 
 #################
 ## Eclipse
