@@ -11,6 +11,7 @@ public Wether vW;
     
     public static void methodHello(){
     	system.debug('hello');
+    	system.debug('hello from mavensmate');
     }
     
 }
