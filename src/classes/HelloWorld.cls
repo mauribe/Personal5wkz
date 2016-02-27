@@ -10,7 +10,9 @@ public Wether vW;
     public enum Wether {SUMMER, WINTER}
     
     public static void methodHello(){
+    
     	system.debug('hello');
+    	system.debug('new comment from mavensmate');
     }
     
 }
