@@ -13,6 +13,7 @@ public Wether vW;
     
     	system.debug('hello');
     	system.debug('new comment from mavensmate');
+    	system.debug('new comment from eclipse');
     }
     
 }
