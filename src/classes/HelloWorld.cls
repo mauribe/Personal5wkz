@@ -11,7 +11,12 @@ public Wether vW;
     
     public static void methodHello(){
     	system.debug('hello');
+<<<<<<< HEAD
     	system.debug('hello from mavensmate');
+=======
+    	system.debug('new comment from mavensmate');
+    	system.debug('new comment from eclipse');
+>>>>>>> origin/quickfix
     }
     
 }
